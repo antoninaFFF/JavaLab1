@@ -1,4 +1,4 @@
-package by.dima;
+package by.antonina;
 
 import java.util.Random;
 
